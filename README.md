@@ -2,7 +2,7 @@
 
 This document contains all the attributions for the music used in my streams.
 
-Last updated: 2024-10-14
+Last updated: 2024-11-10
 
 ---
 
@@ -35,3 +35,7 @@ The following pieces are by Zame (https://www.youtube.com/channel/UCKKKbeAhjKYJf
 * [Radio Virus Busting: Remastered](https://www.youtube.com/watch?v=ceLLFeVEKZI)
 * [Rocket Emergency!: Remastered](https://www.youtube.com/watch?v=IBSZ6i_FmLU)
 * [Ride On! (Mega Man Star Force 3): Remastered](https://www.youtube.com/watch?v=KyCClUyzIP4)
+
+---
+
+I use music by various artists made available through GameChops (https://gamechops.com/). Such music is licensed under the Creative Commons Attribution-ShareAlike 4.0 International license (https://creativecommons.org/licenses/by-sa/4.0/)
